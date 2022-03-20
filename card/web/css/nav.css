@@ -1,0 +1,31 @@
+b {
+    color: darkorange;
+}
+
+.wel {
+    float: left;
+    font-size: 20px;
+}
+
+.nav {
+    height: 6%;
+    background-color: #d8ffcd;
+}
+
+ul {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+li {
+    float: left;
+    height: 100%;
+    width: 169px;
+    font-size: 28px;
+    text-align: center;
+    border-left: #fb3f55 solid 1px;
+    border-right: #fb3f55 solid 1px;
+    color: #4800ff;
+}
